@@ -1,6 +1,7 @@
 import React from 'react';
 import Typewriter from 'typewriter-effect';
 import aboutImage from 'C:/Users/N POOJA/Downloads/portfolio website/myportfolio/src/assets/images/aboutme.jpg';
+import aboutMe from '../../assets/images/aboutme.jpg';
 
 const About = () => {
   return (
