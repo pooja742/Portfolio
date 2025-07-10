@@ -23,7 +23,7 @@ const skillsData = {
 
   Others: [
     { name: "ServiceNow", level: "Beginner", link: "https://learning.servicenow.com/lxp?id=nl_public&user=22r01a6742408068" },
-    { name: "Salesforce", level: "Basic", link: "https://www.salesforce.com/trailblazer/npooja" },
+    { name: "Salesforce", level: "Basic", link: "https://pwc.tekstac.com/blocks/tekbadges/badge.php?id=38016" },
     { name: "SAP", level: "Basic", link: "https://pwc.tekstac.com/blocks/tekbadges/badge.php?id=36350" },
     { name: "Content Writing", level: "Proficient", link: "https://drive.google.com/file/d/1d7_KcaJGLy0DVUGumNoaf7LNms2LL4S9/view?usp=sharing" },
     { name: "Presentation Skills", level: "Proficient", link: "https://drive.google.com/file/d/17dN05_I-UK3R8Vn8YgfSgivsBM6pii9C/view?usp=sharing" },
