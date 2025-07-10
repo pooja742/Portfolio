@@ -35,15 +35,15 @@ export const projects = [
   },
   {
     id: 1,
-    title: "StreetLamp",
-    description: "Streetlamp animation using HTML, CSS, and JavaScript to highlight creative UI design.",
+    title: "Street Lamp",
+    description: "Streetlamp animation using HTML, CSS to highlight creative UI design.",
     github: "https://github.com/pooja742/street_lamp",
     webapp: "https://street-lamp.vercel.app/",
     tags: ["HTML & CSS animation"]
   },
   {
     id: 2,
-    title: "StopWatch",
+    title: "Stop Watch",
     description: "A highly accurate stopwatch web app with lap tracking and styling.",
     github: "https://github.com/pooja742/StopWatch",
     webapp: "https://stop-watch-gray-eight.vercel.app/",
