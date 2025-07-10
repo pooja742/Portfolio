@@ -17,10 +17,9 @@ const Footer = () => {
         <nav className="flex flex-wrap justify-center space-x-6 mt-2">
           {[
             { name: "About", id: "about" },
-            { name: "Skills", id: "skills" },
-            { name: "Experience", id: "experience" },
-            { name: "Projects", id: "projects" },
             { name: "Education", id: "education" },
+            { name: "Skills", id: "skills" },
+             { name: "Projects", id: "projects" },            
           ].map((item, index) => (
             <button
               key={index}
