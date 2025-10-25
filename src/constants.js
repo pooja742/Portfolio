@@ -66,9 +66,9 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Implementation of AI Powered Medical Diagnosis System",
-    description: "AI-powered diagnosis system predicting multiple diseases using patient data with real-time Streamlit interface.",
-    github: "https://github.com/pooja742/Implementation-of-AI-Powered-Medical-Diagnosis-System",
-    tags: ["ML", "Pandas & NumPy","Streamlit"]
+    title: "Crop Recommendation System",
+    description: "A Machine Learning-based web application that recommends the most suitable crop to grow based on soil and weather parameters.",
+    github: "https://github.com/pooja742/Crop_Recommendation_System",
+    tags: ["ML", "Python","Flask"]
   }
 ];
