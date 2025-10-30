@@ -3,9 +3,9 @@ export const education = [
     id: 0,
     school: 'CMR INSTITUTE OF TECHNOLOGY',
     date: '2022 - 2026',
-    grade: '8.88 CGPA',
+    grade: '8.92 CGPA',
     degree: 'Bachelor of Technology - B Tech (Computer Science Engineering [Data Science])',
-    desc: 'I am a third-year B.Tech Data Science student graduating in 2026, building a strong foundation in core CS subjects. My journey includes hands-on learning in DBMS, Computer Networks, Operating Systems, Java (OOPs), and Software Development Engineering.',
+    desc: 'I am a final-year B.Tech Data Science student graduating in 2026, building a strong foundation in core CS subjects. My journey includes hands-on learning in DBMS, Computer Networks, Operating Systems, Java (OOPs), and Software Development Engineering.',
   },
   {
     id: 1,
